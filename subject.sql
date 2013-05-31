@@ -1,0 +1,9 @@
+INSERT INTO `subject` VALUES (1, '计算机网络', '必修', 2);
+INSERT INTO `subject` VALUES (2, '线性代数', '必修', 2);
+INSERT INTO `subject` VALUES (3, '操作系统', '必修', 4);
+INSERT INTO `subject` VALUES (4, '计算机图形学', '选修', 2);
+INSERT INTO `subject` VALUES (5, '概率', '必修', 3.5);
+INSERT INTO `subject` VALUES (6, '数据结构', '限选', 3.5);
+INSERT INTO `subject` VALUES (7, '可视化程序设计', '选修', 4);
+INSERT INTO `subject` VALUES (8, '数据库', '必修', 3.5);
+INSERT INTO `subject` VALUES (9, '嵌入式开发基础', '必修', 3);
